@@ -1,1 +1,2 @@
-# AYD1-2S2026__202302035
+Manuel Alejandro López Canel
+202302035
