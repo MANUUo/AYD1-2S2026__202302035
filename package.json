@@ -1,0 +1,24 @@
+{
+  "name": "ayd1-2s2026__202302035",
+  "version": "1.0.0",
+  "description": "Manuel Alejandro López Canel\r 202302035",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANUUo/AYD1-2S2026__202302035.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MANUUo/AYD1-2S2026__202302035/issues"
+  },
+  "homepage": "https://github.com/MANUUo/AYD1-2S2026__202302035#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
