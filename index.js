@@ -5,7 +5,7 @@ const port = 3000;
 app.get('/', (req, res) => {
   res.json({
     nombre: "Manuel Alejandro López Canel",
-    cancion_favorita: "Remember the Time - Michael Jackson" 
+    cancion_favorita: "Kyougen - Ado" 
   });
 });
 
